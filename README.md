@@ -1,11 +1,8 @@
 # ABOUT
-
-2019 January
 First of all, no doubt, there are a lot of solutions, in this case this is the mine! :) 
 
-
 # PROBLEM
- You are planning a conference or Event and you have received a lot of proposals choosen after differents filters or process and now you've to fit them into the time constraints of the day. There are a lot of different combinations, so I suggest to write some code lines :)
+ You are planning a conference or event and you have received a lot of proposals chosen after differents filters or process and now you've to fit them into the time constraints of the day. There are a lot of different combinations, so I suggest to write some code lines :)
   
   Some rules and constraints always are funny...
 * The conference has different tracks each of which has a morning and afternoon session.
@@ -15,14 +12,13 @@ First of all, no doubt, there are a lot of solutions, in this case this is the m
 * Afternoon sessions begin at 1pm and must finish in time for take some beers with the mates.
 * The beers have to start no earlier than 4:00 and no later than 5:00.
 * The talk titles can't have numbers in it.
-* The talk lenght are either in minutes (not hours) or FASTTALK (5 minutes).
+* The talk length are either in minutes (not hours) or FASTTALK (5 minutes).
 * Talks will start and end ON TIME. There no need gaps between sessions.
 
 Example Test input (Talk names from Big Data Spain 2018):
 -Advancing Human Exploration 60min
 -MLflow: Accelerating the Machine Learning Lifecycle 45min
--Deep Learning and the technology behind Self-Driving Cars
-s 30min
+-Deep Learning and the technology behind Self-Driving Cars 30min
 -AI Adoption in Enterprise 45min
 -An image is worth a thousand words 45min
 -Data Lakes for Financial Entities FASTTALK
