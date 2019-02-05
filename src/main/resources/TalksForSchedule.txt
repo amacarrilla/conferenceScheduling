@@ -1,0 +1,19 @@
+Advancing Human Exploration 60min
+MLflow: Accelerating the Machine Learning Lifecycle 45min
+Deep Learning and the technology behind Self-Driving Cars 30min
+AI Adoption in Enterprise 45min
+An image is worth a thousand words 45min
+Data Lakes for Financial Entities FASTTALK
+Probabilistic structures for scalable computing 60min
+Three Advanced Analytics use cases in the travel industry 45min
+AI beyond chatbots 30min
+From BigData to AI 30min
+Big Data Governance challenges 45min
+Machine learning for closets 60min
+Big Data in flight test 60min
+Man shall not live by data science alone 45min
+Driving in dataland 30min
+Energizing the Data: building our Data Lane 30min
+Powering up financial institutions with distributed systems 60min
+Man shall not live by data science alone 30min
+Apache Kylin and Use Cases 30min
