@@ -51,9 +51,9 @@ Track 1:
 16:35 p. m. Networking Event
 
 Track 2:
-09:00 a. m. Big Data in flight test 60min
-10:00 a. m. Powering up financial institutions with distributed systems 60min
-11:00 a. m. MLflow: Accelerating the Machine Learning Lifecycle 45min
+09:00 a. m. Big Data in flight test 60min . 
+10:00 a. m. Powering up financial institutions with distributed systems 60min . 
+11:00 a. m. MLflow: Accelerating the Machine Learning Lifecycle 45min . 
 11:45 a. m. AI Adoption in Enterprise 45min
 12:30 p. m. Lunch 60min
 13:30 p. m. Deep Learning and the technology behind Self-Driving Cars 30min
